@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba4a8b88-ee42-4433-a744-e8bcc0e6821e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/Bounceable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/Brick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/BrickBreakingBall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/CooperativeAlien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/Environment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/HalfMetalBrick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/LController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/LPaddle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/MineBrick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/ProtectingAlien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/RepairingAlien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/RotateCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/SimpleBrick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/WrapperBrick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/alienFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBad/brickFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Brick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/BuildMode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/BuildMode$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/BuildMode$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/BuildMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Gameplay$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Gameplay$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Gameplay$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Gameplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/Paddle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/BrickingBadUI/UIController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/Utility/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/Utility/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/bin/Utility/Vector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/Bounceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/Brick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/BrickBreakingBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/CooperativeAlien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/Environment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/HalfMetalBrick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/LController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/LPaddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/MineBrick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/ProtectingAlien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/RepairingAlien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/RotateCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/SimpleBrick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/WrapperBrick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/alienFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBad/brickFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/Brick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/BuildMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/Gameplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/MainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/Paddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/BrickingBadUI/UIController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/Utility/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/Utility/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BrickingBad/src/Utility/Vector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EY_CV.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Ege Yelken.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/Jim Snidero - Easy Jazz Conception for Tenor Saxophone.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/Jim Snidero Basie's Blues Scale version - Full Score.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/John Coltrane - A Love Supreme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/John Coltrane - Transcriptions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/Oliver Nelson - Improvisation for saxophone.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/Overture  (from Whiplash).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/People+Get+Up+And+Drive+Your+Funky+Soul.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/Transcriptions/Jim Snidero Basie's Blues Scale version - Full Score.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/Transcriptions/John Coltrane - A Love Supreme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/Transcriptions/John Coltrane - Transcriptions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/print/Bebop Dominant Scale - Full Score.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/print/Blue Bossa.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/print/Blue in Green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/print/Major Gam.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/print/Outro (Alto Sax).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sax/print/Soul Intro.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1kGiTnk87z2MEWooe1LHdMJJAur" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba4a8b88-ee42-4433-a744-e8bcc0e6821e" name="Default Changelist" comment="" />
+      <created>1605333341000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605333341000</updated>
+    </task>
+    <servers />
+  </component>
+</project>
